@@ -15,7 +15,6 @@ psutil
 httpx==0.27.2
 py-tgcalls==0.9.7
 pykeyboard
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 python-dotenv
 pyyaml
 requests
@@ -23,7 +22,12 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-git+https://github.com/yt-dlp/yt-dlp.git@master
+uvloop
 youtube-search
 youtube-search-python
-uvloop
+
+# ✅ install pyrogram from official GitHub source
+https://github.com/KurimuzonAkuma/pyrogram/archive/refs/tags/v2.1.23.zip
+
+# ✅ yt-dlp from GitHub master branch
+git+https://github.com/yt-dlp/yt-dlp.git@master
