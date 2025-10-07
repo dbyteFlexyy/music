@@ -1,5 +1,6 @@
 aiofiles
 aiohttp
+pytz
 apscheduler
 asyncio
 beautifulsoup4
