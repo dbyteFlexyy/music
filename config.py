@@ -82,14 +82,14 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "http://telegraph.controller.bot/files/6822452862/AgACAgUAAxkBAAIp-mj710cCFAABwydl4BrWivR5KlQJZAAC-gxrGzuW2FccNTxjpSwbtwEAAwIAA3gAAzYE"
+    "START_IMG_URL", "http://telegraph.controller.bot/files/6822452862/AgACAgUAAxkBAAIqBWj72abBKWb8Ze4UqSMRgZTxB1G9AAJODmsbzPSoV5FuApRm2MYaAQADAgADeAADNgQ"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/ou29gb.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/tny9ug.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/k3e3bg.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nknnw1.jpg"
+TELEGRAM_AUDIO_URL = "http://telegraph.controller.bot/files/6822452862/AgACAgUAAxkBAAIqBWj72abBKWb8Ze4UqSMRgZTxB1G9AAJODmsbzPSoV5FuApRm2MYaAQADAgADeAADNgQ"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/1xn73k.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/tny9ug.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/1xn73k.jpg"
