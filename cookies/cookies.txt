@@ -1,7 +1,3 @@
-# Netscape HTTP Cookie File
-# https://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file! Do not edit.
-
 .youtube.com	TRUE	/	FALSE	1795608010	HSID	AHSoOoWJvOS0XexrN
 .youtube.com	TRUE	/	TRUE	1795608010	SSID	Ao5U77uFeXQA0G1hC
 .youtube.com	TRUE	/	FALSE	1795608010	APISID	NrAsdSEVMzR-fhx6/ABhapuGAVHrjBcjUI
