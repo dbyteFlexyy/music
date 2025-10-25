@@ -93,7 +93,7 @@ Arc Music Bot
 <details>
 <summary><b>🔹 Deploy to Heroku</b></summary>
 
-[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/deadlineTech/Music)
+[![Deploy](https://img.shields.io/badge/Deploy%20to-Heroku-4700f5?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/dbyteFlexyy/music)
 
 </details>
 
